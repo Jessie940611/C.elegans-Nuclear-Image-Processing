@@ -7,7 +7,7 @@
 green_addr = 'input_image\green_channel\';
 red_addr = 'input_image\red_channel\';
 output_addr = 'output_image\';
-addpath('..');
+addpath(genpath('..'));
 
 out_addr = 'output_image\';
 if ~exist(out_addr, 'dir')
