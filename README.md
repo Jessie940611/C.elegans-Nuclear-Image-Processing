@@ -1,6 +1,6 @@
 # C.elegans-Nuclear-Image-Processing
 This repository contains the segmentation program and classification notes.</br>
-The details are described in this paper [Zhao, Mengdi, et al. Segmentation and classification of two-channel C. elegans nucleus-labeled fluorescence images. BMC bioinformatics 18.1 (2017):412](https://link.springer.xilesou.top/content/pdf/10.1186/s12859-017-1817-3.pdf)</br>
+The details are described in this paper [Zhao, Mengdi, et al. Segmentation and classification of two-channel C. elegans nucleus-labeled fluorescence images. BMC bioinformatics 18.1 (2017):412](https://link.springer.com/article/10.1186/s12859-017-1817-3)</br>
 
 
 
